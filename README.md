@@ -1,6 +1,6 @@
 # The Way Home
 _The Way Home_ is a browser-based, 2d-platforming video game created during the Fall 2021 semester at Georgia State University for Dr. Weeks's Fundamentals of Game Design (CSC 4821) course.  
-This project was a collaborative effort between four undergraduate [students](#authors--contributions) and was submitted for the course's final assignment.
+This project was a collaborative effort between four undergraduate [students](#authors--contributions) and was submitted for the course's final assignment along with a [video](https://youtu.be/Dy2eZXNsMgg) that was presented to the class on the final day of the course.
 
 ### Play the game [here](https://g9fr8w.csb.app/)!
 
@@ -34,11 +34,12 @@ Brian Williams (lead programmer)
 - Implementation of all core gameplay mechanics
 
 ### Software Tools & Other Resources
-- [CodeSandbox](https://codesandbox.io/) (hosting; real-time collaborative programming)
+- [CodeSandbox](https://codesandbox.io/) (hosting; live reloading; real-time collaborative programming)
 - [FL Studio](https://www.image-line.com/fl-studio/) (music)
 - [Krita](https://krita.org/en/) (miscellaneous art)
 - [Mixkit](https://mixkit.co/) (sound effects)
 - [Unity Asset Store](https://assetstore.unity.com/) (sprite art)
+  - Package used: Zuhria A's "[Future Soldiers - Game Sprites](https://assetstore.unity.com/packages/2d/characters/future-soldiers-game-sprites-83741)"
 
 ### Notes
 - This repository does not include the images or audio used for the final version of the game
