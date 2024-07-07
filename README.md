@@ -42,4 +42,4 @@ Brian Williams (lead programmer)
   - Package used: Zuhria A's "[Future Soldiers - Game Sprites](https://assetstore.unity.com/packages/2d/characters/future-soldiers-game-sprites-83741)"
 
 ### Notes
-- This repository does not include the images or audio used for the final version of the game
+- This repository is copied from the original CodeSandbox source that was used to develop the game and does not include the images or audio used for the final version of the game
