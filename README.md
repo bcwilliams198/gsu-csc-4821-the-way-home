@@ -21,10 +21,10 @@ Collier Hawkins
 
 Simeon Landers
 - Acquisition of sprite art
-- Game level design
+- Game level design and implementation
 
 Ta Riq Singleton-Peters
-- Game level design
+- Game level design and implementation
 
 Brian Williams (lead programmer)
 - Physics engine
