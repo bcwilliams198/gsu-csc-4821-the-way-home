@@ -1,5 +1,6 @@
 # The Way Home
-_The Way Home_ is a browser-based, 2d-platforming video game created during the Fall 2021 semester at Georgia State University for Dr. Michael Weeks's Fundamentals of Game Design (CSC 4821) course.  
+_The Way Home_ is a browser-based, 2d-platforming video game created during the Fall 2021 semester at Georgia State University for Dr. Michael Weeks's Fundamentals of Game Design (CSC 4821) course.
+
 This project was a collaborative effort between four undergraduate [students](#authors--contributions) and was submitted for the course's final assignment along with a [video](https://youtu.be/Dy2eZXNsMgg) that was presented to the class on the final day of the course.
 
 ### Play the game [here](https://g9fr8w.csb.app/)!
@@ -14,19 +15,19 @@ A poster was presented at the Georgia State Undergraduate Research Conference du
 ![image failed to load](./GSURC_Poster.png)
 
 ### Authors & Contributions
-Collier Hawkins
+*Collier Hawkins*
 - Music
 - Acquisition of sound effects
 - Miscellaneous art and sprite editing
 
-Simeon Landers
+*Simeon Landers*
 - Acquisition of sprite art
 - Game level design and implementation
 
-Ta Riq Singleton-Peters
+*Ta Riq Singleton-Peters*
 - Game level design and implementation
 
-Brian Williams (lead programmer)
+*Brian Williams* (lead programmer)
 - Physics engine
 - User interface engine
 - Keyboard input handling
