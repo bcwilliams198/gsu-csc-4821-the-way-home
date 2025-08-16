@@ -19,6 +19,7 @@ A poster was presented at the Georgia State Undergraduate Research Conference du
 - Music
 - Acquisition of sound effects
 - Miscellaneous art and sprite editing
+- Video editing
 
 **Simeon Landers**
 - Acquisition of sprite art
