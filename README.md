@@ -15,19 +15,19 @@ A poster was presented at the Georgia State Undergraduate Research Conference du
 ![image failed to load](./GSURC_Poster.png)
 
 ### Authors & Contributions
-_Collier Hawkins_
+**Collier Hawkins**
 - Music
 - Acquisition of sound effects
 - Miscellaneous art and sprite editing
 
-_Simeon Landers_
+**Simeon Landers**
 - Acquisition of sprite art
 - Game level design and implementation
 
-_Ta Riq Singleton-Peters_
+**Ta Riq Singleton-Peters**
 - Game level design and implementation
 
-_Brian Williams_ (lead programmer)
+**Brian Williams** (lead programmer)
 - Physics engine
 - User interface engine
 - Keyboard input handling
