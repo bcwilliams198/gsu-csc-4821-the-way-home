@@ -9,7 +9,7 @@ _The Way Home_'s plot features an unnamed alien who must traverse a sector of Ar
 
 The game's engine was designed and implemented entirely from scratch via vanilla JavaScript and HTML5 to fulfill the rubric's requirement of running in a browser without downloads, and to demonstrate the convenience and versatility of the JavaScript programming language.
 
-A poster was presented at the Georgia State Undergraduate Research Conference in April of the following Spring 2022 semester:
+A poster was presented at the Georgia State Undergraduate Research Conference during the following Spring 2022 semester:
 
 ![image failed to load](./GSURC_Poster.png)
 
